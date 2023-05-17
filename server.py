@@ -1,3 +1,4 @@
+#Voici un exemple de code Python utilisant les sockets pour créer un système client-serveur permettant à plusieurs utilisateurs de se connecter au serveur et de communiquer entre eux.
 import socket
 import threading
 
