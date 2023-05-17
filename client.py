@@ -1,3 +1,4 @@
+#Vous pouvez exécuter ces deux scripts dans des terminaux séparés pour lancer le serveur et les clients. Les clients peuvent se connecter au serveur en utilisant l'adresse IP
 import socket
 import threading
 
